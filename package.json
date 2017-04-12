@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-shell": "^0.6.3"
+    "gulp-shell": "^0.6.3",
+    "morgan": "^1.8.1"
   },
   "scripts": {
     "postinstall": "gulp install",
     "start": "gulp"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
